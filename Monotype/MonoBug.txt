@@ -1,0 +1,50 @@
+Heracross @ Heracronite
+Ability: Moxie
+EVs: 240 HP / 140 Atk / 128 Spe
+Adamant Nature
+ -Rock Blast
+ -Pin Missile
+ -Bullet Seed
+ -Close Combat
+
+Galvantula @ Focus Sash
+Ability: Compound Eyes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+ -Thunder
+ -Sticky Web
+ -Energy Ball
+ -Volt Switch
+
+Armaldo @ Assault Vest
+Ability: Battle Armor
+EVs: 248 HP / 252 Atk / 8 Def
+ -Earthquake
+ -Rapid Spin
+ -Knock Off
+ -Stone Edge
+
+Araquanid @ Leftovers
+Ability: Water Bubble
+EVs: 248 HP / 192 Atk / 68 Spe
+ -Spider Web
+ -Toxic
+ -Scald
+ -Leech Life
+
+Scyther @ Life Orb
+Ability: Technician
+EVs: 252 Atk / 252 Spe / 4 SpD
+ -Aerial Ace
+ -Pursuit
+ -Bullet Punch
+ -Swords Dance
+
+Vespiquen @ Buginium Z  Held
+Ability: Pressure
+EVs: 108 HP / 148 Def / 252 SpD
+Impish Nature
+ -Defend Order
+ -Attack Order
+ -Heal Order
+ -Infestation
